@@ -36,7 +36,7 @@
   - Simple room with a wood table.
   - Game structure all on top of the table.
 
-  ![GameView](TP3/screenshots/gameView.png)
-  ![FirstCamera](TP3/screenshots/firstCamera.png)
+  ![GameView](TP3/src/screenshots/gameView.png)
+  ![FirstCamera](TP3/src/screenshots/firstCamera.png)
 
 
